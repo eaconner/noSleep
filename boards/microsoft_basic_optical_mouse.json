@@ -7,18 +7,6 @@
       [
         "0x045E",
         "0x0084"
-      ],
-      [
-        "0x045E",
-        "0x0084"
-      ],
-      [
-        "0x045E",
-        "0x0084"
-      ],
-      [
-        "0x045E",
-        "0x0084"
       ]
     ],
     "mcu": "atmega32u4",
@@ -31,7 +19,7 @@
   "frameworks": [
     "arduino"
   ],
-  "name": "SparkFun Pro Micro 5V/16MHz",
+  "name": "Microsoft Basic Optical Mouse",
   "upload": {
     "disable_flushing": true,
     "maximum_ram_size": 2560,
